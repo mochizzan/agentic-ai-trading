@@ -28,8 +28,9 @@ vite.config.ts.timestamp-*
 .serena
 .kilo
 .opencode
-.hermes
+.heroku
 .superpowers
+.commandcode/
 
 # Cache & temp
 .cache
